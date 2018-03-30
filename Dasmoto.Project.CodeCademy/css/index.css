@@ -1,0 +1,38 @@
+h1,
+h2,
+h3,
+p {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("/Users/kengbarton/Desktop/Ken's Coding Projects/Projects/Dasmoto.Project.CodeCademy/images/background.jpeg")
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frame {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: lightblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
